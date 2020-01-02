@@ -41,3 +41,9 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+.icon-size{
+    width:20px;
+}
+.icon-margin{
+    padding-right:3px;
+}
